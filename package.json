@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cpsc",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CPSC MCP — US consumer-product safety recalls (CPSC, free, no auth).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-13f8509b08e16953f05e56691d059f424390efc8b7c5eb471bedd7cb3c7fd0aa",
-    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
+    "sourceHash": "v1-08fb8fb32deaf8e0e13902af41f4427b7abe18c5cf6356cdc45f9d92b5aeb3d7",
+    "sourceCommit": "b0a4b8e2f3f5b3a4c3f9f2c9a73f91b20d32ce11"
   }
 }
